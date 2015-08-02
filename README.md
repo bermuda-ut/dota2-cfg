@@ -13,7 +13,7 @@ The Features include:
 - Toggle HP marks
 - Performance Improvements (Testing for Reborn)
 - Spectator Camera Mode
-- Easter Eggs :P
+- Easy to customize
 - And MORE.
 
 Place/Replace the files here:
