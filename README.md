@@ -17,7 +17,7 @@ The Features include:
 - And MORE.
 
 Visit [the original Wordpress post](wp.me/p18fP6-ir), for details.
-**(Before Reborn Beta, it used to be created and updated by Bermuda however now it is open to community to contribute.)**
+*(Before Reborn Beta, it used to be created and updated by Bermuda however now it is open to community to contribute.)*
 
 Contributing
 --------------
