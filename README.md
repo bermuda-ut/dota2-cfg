@@ -16,6 +16,9 @@ The Features include:
 - Easter Eggs :P
 - And MORE.
 
+Place/Replace the files here:
+	Steam\steamapps\common\dota 2 beta\game\dota\cfg
+
 Visit [the original Wordpress post](wp.me/p18fP6-ir), for details.
 *(Before Reborn Beta, it used to be created and updated by Bermuda however now it is open to community to contribute.)*
 
