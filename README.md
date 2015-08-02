@@ -9,15 +9,15 @@ What is it?
 It is Dota 2 Configuration file to expand option pool for further customization to meet user's taste.
 The Features include:
 - Quick Courier
-- Quick Rune Cameras
+- Basic and Quick Rune Cameras
 - Toggle HP marks
 - Performance Improvements (Testing for Reborn)
+- Spectator Camera Mode
 - Easter Eggs :P
-- And MORE!
-Before Reborn Beta, it used to be created and updated by Bermuda however now it is open to community to contribute.
+- And MORE.
 
 Visit [the original Wordpress post](wp.me/p18fP6-ir), for details.
-
+**(Before Reborn Beta, it used to be created and updated by Bermuda however now it is open to community to contribute.)**
 
 Contributing
 --------------
